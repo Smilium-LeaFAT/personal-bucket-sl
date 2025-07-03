@@ -19,5 +19,5 @@ Run the following:
 
 ```pwsh
 scoop bucket add personal-bucket-sl https://github.com/Smilium-LeaFAT/personal-bucket-sl
-scoop install Smilium-LeaFAT/personal-bucket-sl
+scoop install personal-bucket-sl/luarocks
 ```
