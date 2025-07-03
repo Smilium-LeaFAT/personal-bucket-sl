@@ -1,6 +1,6 @@
 {
     "##": "This is a luarocks package from official GitHub release instead of its dot io home page for speeding up download.",
-    "version": "v3.12.2",
+    "version": "3.12.2",
     "description": "The package manager for Lua modules",
     "homepage": "https://luarocks.org",
     "license": "MIT",
