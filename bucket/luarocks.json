@@ -55,11 +55,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://luarocks.github.io/luarocks/releases/luarocks-$version-windows-64.zip",
+                "url": "https://github.com/luarocks/luarocks/releases/download/v$version/luarocks-$version-windows-64.zip",
                 "extract_dir": "luarocks-$version-windows-64"
             },
             "32bit": {
-                "url": "https://luarocks.github.io/luarocks/releases/luarocks-$version-windows-32.zip",
+                "url": "https://github.com/luarocks/luarocks/releases/download/v$version/luarocks-$version-windows-32.zip",
                 "extract_dir": "luarocks-$version-windows-32"
             }
         }
